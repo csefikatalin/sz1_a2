@@ -1,0 +1,14 @@
+#kep{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+#nagy{
+    width: 200px;
+}
+#hobby{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
+span{
+    font-style: italic;
+}
